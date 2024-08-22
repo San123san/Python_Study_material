@@ -1,7 +1,9 @@
 # Python_Study_material
 
 In python, they didnt have array. Instead of use list.
+
 Example with Python List
+
 Here’s how the list initialization works:
 code
 n = 5
