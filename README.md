@@ -37,3 +37,9 @@ In Python, everything is an object, including various data types. Each type is i
    - Example: `{1, 2, 3}`
 
 Each of these data types is an instance of its corresponding class. For instance, when you create an integer like `5`, it’s an instance of the `int` class. This object-oriented nature means that all data types in Python have methods and properties defined by their respective classes, allowing you to interact with and manipulate them in various ways.
+
+## Understanding References in Mutable vs Immutable Types
+
+Immutable Types: The reference to the object does not change; modifications result in new objects being created. Examples include int, float, str, and tuple.
+
+Mutable Types: The reference to the object remains the same; modifications change the content of the original object. Examples include list, dict, and set.
