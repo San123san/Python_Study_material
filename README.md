@@ -9,7 +9,7 @@ Here’s how the list initialization works:
 n = 5
 dp = [0] * n
 print(dp)  # Output: [0, 0, 0, 0, 0]
-```python
+```
 
 ## Understanding Python Data Types
 
