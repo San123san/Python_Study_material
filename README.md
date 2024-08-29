@@ -13,7 +13,9 @@ print(dp)  # Output: [0, 0, 0, 0, 0]
 
 ## Understanding Python Data Types
 
-In Python, everything is an object, including various data types. Each type is implemented as a class, and instances of these classes are objects with associated methods and properties. Here’s a quick overview of the core data types:
+In Python, everything is an object, including various data types. Each type is implemented as a class,
+and instances of these classes are objects with associated methods and properties. Here’s a quick
+overview of the core data types:
 
 1. **Integers** (`int`): Represent whole numbers.
    - Example: `42`
@@ -36,10 +38,15 @@ In Python, everything is an object, including various data types. Each type is i
 7. **Sets** (`set`): Unordered collections of unique items.
    - Example: `{1, 2, 3}`
 
-Each of these data types is an instance of its corresponding class. For instance, when you create an integer like `5`, it’s an instance of the `int` class. This object-oriented nature means that all data types in Python have methods and properties defined by their respective classes, allowing you to interact with and manipulate them in various ways.
+Each of these data types is an instance of its corresponding class. For instance, when you create an
+integer like `5`, it’s an instance of the `int` class. This object-oriented nature means that all data
+types in Python have methods and properties defined by their respective classes, allowing you to
+interact with and manipulate them in various ways.
 
 ## Understanding References in Mutable vs Immutable Types
 
-Immutable Types: The reference to the object does not change; modifications result in new objects being created. Examples include int, float, str, and tuple.
+Immutable Types: The reference to the object does not change; modifications result in new objects being
+created. Examples include int, float, str, and tuple.
 
-Mutable Types: The reference to the object remains the same; modifications change the content of the original object. Examples include list, dict, and set.
+Mutable Types: The reference to the object remains the same; modifications change the content of the
+original object. Examples include list, dict, and set.
