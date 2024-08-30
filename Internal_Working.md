@@ -30,4 +30,4 @@ del b          # `b` no longer references the list object, reducing the count to
 # At this point, the memory for the list object is deallocated
 ```
 
-String and Integer is late decolation
+In String and Integer, the late delocation happen.
