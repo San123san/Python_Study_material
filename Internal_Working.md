@@ -29,3 +29,5 @@ del a          # `a` no longer references the list object, reducing the count to
 del b          # `b` no longer references the list object, reducing the count to 0
 # At this point, the memory for the list object is deallocated
 ```
+
+String and Integer is late decolation
