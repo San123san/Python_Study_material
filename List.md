@@ -137,11 +137,14 @@ my_list[2:2] = [300, 400]  # [10, 20, 300, 400, 30, 40, 50]
 ```
 Inserting [300, 400] at index 2 without removing any elements.
 
+```python
 my_list1 = [hello, world]
 my_list1[0:1] = "hello" #output: [hello, h, e, l, l, o, world]
-
+```
+```python
 my_list1 = ['hello', 'world']
 my_list1[0:1] = ['hello'] #output: ['hello', 'h', 'e', 'l', 'l', 'o', 'world']
+```
 
 ### Delete Elements
 ```python
