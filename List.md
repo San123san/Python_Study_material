@@ -152,7 +152,7 @@ del my_list[1:3]  # [10, 40, 50]
 ```
 Deletes elements from index 1 to 3.
 
-##Summary
+## Summary
 Slicing is a versatile feature in Python that allows you to access, modify, and 
 manipulate parts of sequences easily. It is especially useful for working with lists 
 and other sequence types, making it a fundamental tool in Python programming.
