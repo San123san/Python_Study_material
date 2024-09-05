@@ -136,5 +136,3 @@ Here’s a complete example that demonstrates the use of some string methods:
     After replacement: PYTHON IS AWESOME!
     Split text: ['PYTHON', 'IS', 'AWESOME!']
     Joined text: PYTHON IS AWESOME!
-
-Understanding and using these methods can help you efficiently manipulate and analyze string data in Python.
